@@ -61,6 +61,8 @@ Histograms (Age, Fare).
 Correlation Heatmap.
 
 Feature vs. Survival plots (Sex, Pclass, Age, SibSp, Parch).
+<img width="540" height="395" alt="image" src="https://github.com/user-attachments/assets/3fdd4e74-3709-4c0d-bc15-a45413a719ba" />
+
 
 **8. Insights**
 
