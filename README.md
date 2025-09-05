@@ -55,13 +55,15 @@ Dropped duplicates (if any).
 **7. Visualizations**
 
 Bar charts (e.g., Survival by Gender, Pclass).
-
+<img width="540" height="395" alt="image" src="https://github.com/user-attachments/assets/3fdd4e74-3709-4c0d-bc15-a45413a719ba" />
 Histograms (Age, Fare).
 
 Correlation Heatmap.
+<img width="637" height="528" alt="image" src="https://github.com/user-attachments/assets/ab22e8f0-0f80-49f1-8e99-3fb06bff95c4" />
 
 Feature vs. Survival plots (Sex, Pclass, Age, SibSp, Parch).
-<img width="540" height="395" alt="image" src="https://github.com/user-attachments/assets/3fdd4e74-3709-4c0d-bc15-a45413a719ba" />
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/5b50259e-eaf1-4ae9-89ca-bce1179f1dc6" />
+
 
 
 **8. Insights**
